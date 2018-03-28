@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "pid": "4b0c4e4ffb6d4b559e77a166f4671632",
+                  "refpk": "89d2dabec1c54a4ab6e08269a1a10b46",
+                  "refcode": "PlatDept_01010101",
+                  "id": "89d2dabec1c54a4ab6e08269a1a10b46",
+                  "refname": "Plat部门#_01010101"
+                },
+                {
+                  "children": [],
+                  "pid": "4b0c4e4ffb6d4b559e77a166f4671632",
+                  "refpk": "4be7c65c3cd040778a9b34d5bdc761e9",
+                  "refcode": "PlatDept_01010102",
+                  "id": "4be7c65c3cd040778a9b34d5bdc761e9",
+                  "refname": "Plat部门_01010102"
+                },
+                {
+                  "children": [],
+                  "pid": "4b0c4e4ffb6d4b559e77a166f4671632",
+                  "refpk": "52a5c05840e74f198be50dfa1f9a8c33",
+                  "refcode": "PlatDept_01010103",
+                  "id": "52a5c05840e74f198be50dfa1f9a8c33",
+                  "refname": "Plat部门_01010103"
+                }
+              ],
+              "pid": "f26f04b2c7a9451b88a16b65d23ff7dc",
+              "refpk": "4b0c4e4ffb6d4b559e77a166f4671632",
+              "refcode": "PlatDept_010101",
+              "id": "4b0c4e4ffb6d4b559e77a166f4671632",
+              "refname": "Plat部门_010101"
+            },
+            {
+              "children": [],
+              "pid": "f26f04b2c7a9451b88a16b65d23ff7dc",
+              "refpk": "5db3f01920f34d92a7dba8683a6145e5",
+              "refcode": "PlatDept_010102",
+              "id": "5db3f01920f34d92a7dba8683a6145e5",
+              "refname": "Plat部门_010102"
+            },
+            {
+              "children": [],
+              "pid": "f26f04b2c7a9451b88a16b65d23ff7dc",
+              "refpk": "e57434c7ea1a41fb8b8e01983664b173",
+              "refcode": "PlatDept_010103",
+              "id": "e57434c7ea1a41fb8b8e01983664b173",
+              "refname": "Plat部门_010103"
+            },
+            {
+              "children": [],
+              "pid": "f26f04b2c7a9451b88a16b65d23ff7dc",
+              "refpk": "8d1e391e17cf4a62807e2e760109ed12",
+              "refcode": "PlatDept_010104",
+              "id": "8d1e391e17cf4a62807e2e760109ed12",
+              "refname": "Plat部门_010104"
+            }
+          ],
+          "pid": "c80bc85ecaba46cba95f04f2d889ee77",
+          "refpk": "f26f04b2c7a9451b88a16b65d23ff7dc",
+          "refcode": "Platadmin_0101",
+          "id": "f26f04b2c7a9451b88a16b65d23ff7dc",
+          "refname": "Plat行政组织0101"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "pid": "4ad5b414700340fa93ed1efb36014de4",
+              "refpk": "cbeae425fce440d485c5f3dc66929f35",
+              "refcode": "PlatDept_010201",
+              "id": "cbeae425fce440d485c5f3dc66929f35",
+              "refname": "Plat部门_010201"
+            },
+            {
+              "children": [],
+              "pid": "4ad5b414700340fa93ed1efb36014de4",
+              "refpk": "f74b35e1023e4742bc9825dc3d3a323b",
+              "refcode": "PlatDept_010202",
+              "id": "f74b35e1023e4742bc9825dc3d3a323b",
+              "refname": "Plat部门_010202"
+            },
+            {
+              "children": [],
+              "pid": "4ad5b414700340fa93ed1efb36014de4",
+              "refpk": "8712dc90f9144f82b57fc857df722372",
+              "refcode": "PlatDept_010203",
+              "id": "8712dc90f9144f82b57fc857df722372",
+              "refname": "Plat部门_010203"
+            }
+          ],
+          "pid": "c80bc85ecaba46cba95f04f2d889ee77",
+          "refpk": "4ad5b414700340fa93ed1efb36014de4",
+          "refcode": "Platadmin_0102",
+          "id": "4ad5b414700340fa93ed1efb36014de4",
+          "refname": "Plat行政组织0102"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "pid": "a46ccf3c433f4f3eb59acd4ed5b3a47a",
+              "refpk": "1842a49804a14293bf1188551777f20e",
+              "refcode": "PlatDept_010301",
+              "id": "1842a49804a14293bf1188551777f20e",
+              "refname": "Plat部门_010301"
+            },
+            {
+              "children": [],
+              "pid": "a46ccf3c433f4f3eb59acd4ed5b3a47a",
+              "refpk": "47cdfe5c054e48f485407903c4e03e41",
+              "refcode": "PlatDept_010302",
+              "id": "47cdfe5c054e48f485407903c4e03e41",
+              "refname": "Plat部门_010302"
+            },
+            {
+              "children": [],
+              "pid": "a46ccf3c433f4f3eb59acd4ed5b3a47a",
+              "refpk": "a7cb7000b2fd47a4ab542227e76e429c",
+              "refcode": "PlatDept_010303",
+              "id": "a7cb7000b2fd47a4ab542227e76e429c",
+              "refname": "Plat部门_010303"
+            },
+            {
+              "children": [],
+              "pid": "a46ccf3c433f4f3eb59acd4ed5b3a47a",
+              "refpk": "d4db10fe74c04e3baad448021e4c6ccb",
+              "refcode": "PlatDept_010304",
+              "id": "d4db10fe74c04e3baad448021e4c6ccb",
+              "refname": "Plat部门_010304"
+            }
+          ],
+          "pid": "c80bc85ecaba46cba95f04f2d889ee77",
+          "refpk": "a46ccf3c433f4f3eb59acd4ed5b3a47a",
+          "refcode": "Platadmin_0103",
+          "id": "a46ccf3c433f4f3eb59acd4ed5b3a47a",
+          "refname": "Plat行政组织0103"
+        },
+        {
+          "children": [],
+          "pid": "c80bc85ecaba46cba95f04f2d889ee77",
+          "refpk": "1a2b4a081afe4e60acd17f991594c057",
+          "refcode": "Platadmin_0104",
+          "id": "1a2b4a081afe4e60acd17f991594c057",
+          "refname": "Plat行政组织0104"
+        }
+      ],
+      "pid": "",
+      "refpk": "c80bc85ecaba46cba95f04f2d889ee77",
+      "refcode": "adminPlat_01",
+      "id": "c80bc85ecaba46cba95f04f2d889ee77",
+      "refname": "Plat行政组织01"
+    }
+  ],
+  "page": {
+    "pageSize": 19,
+    "currPageIndex": 0,
+    "pageCount": 1
+  },
+  "allpks": null
+}

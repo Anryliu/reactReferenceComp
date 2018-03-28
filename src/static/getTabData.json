@@ -1,0 +1,10 @@
+{
+    "data":[
+        {"title":"常用","key":"commonUse"},
+        {"title":"全部","key":"total"},
+        {"title":"好的","key":"goods"}
+    ],
+    "defaultActiveKey":"total",
+    "msg": "",
+    "status": 1
+}

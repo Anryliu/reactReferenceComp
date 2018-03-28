@@ -1,0 +1,28 @@
+
+/*TreeTable*/
+.TreeTable .c-tree{width: 30%;  display: inline-flex;overflow: auto}
+.TreeTable .tableWrap{width: 100%;  display: inline-flex;margin-top: 5px;}
+.TreeTable .tableCon{width: 70%;  display: inline-block;}
+.TreeTable .c-tree .u-tree{
+  max-height:300px;
+  overflow-y:auto;
+}
+
+.c-error{
+  position: absolute;
+  top: 100px;
+  text-align: center;
+  width: 100%;
+}
+.c-error.show {
+  display: block;
+}
+.c-error.hide {
+  display: none;
+}
+.TreeTable .paginationWrap .u-pagination{
+  position: relative; width: 100%;padding-left:0
+}
+.TreeTable .paginationWrap{ float: left; margin-left: -13px;}
+.TreeTable .hasPage .btnmargintop{display: none}
+.TreeTable .hasPage .Ref-Button { bottom:20px;}
